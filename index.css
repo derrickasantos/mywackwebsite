@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+39+Text|Nosifer|VT323');
+
+body{
+    background-color:black
+}
+
+h1{
+    color:darkblue;
+    text-align: center;
+    font-family: 'Libre Barcode 39 Text', cursive;
+    font-size: 100px;
+}
+h2{
+    color:white;
+    text-align: center;
+    font-family: 'VT323', monospace;
+    font-size: 50px;
+
+}
+
+p{
+    font-family: 'VT323', monospace;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+}
+ul{ 
+    font-family: 'VT323', monospace;
+    font-size: 30px; 
+    color:white;
+}
+header{
+    background-color: #002163;
+    height: 100px;
+    width: 100%;
+    font-size: 50px;
+    color:white;
+    text-align: center;
+    font-family: 'Nosifer', cursive;
+}
+img{
+    width:500px;
+    height:500px;
+    
+}
+.family{
+    background-color: #00297c;
+}
+
+.hobbies{
+    background-color: #0247d6;
+}
+
+.interests{
+    background-color: #013296;
+}
+.aspirations{
+    background-color: #0254ff;
+}
+
